@@ -167,5 +167,3 @@ Copyright © 2024 Anajah Academy. All rights reserved.
 - Fonts: Google Fonts
 
 ---
-
-**Note**: Remember to update all placeholder credentials, email addresses, and database connections before deploying to production.
